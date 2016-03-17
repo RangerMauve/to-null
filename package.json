@@ -1,0 +1,29 @@
+{
+  "name": "to-null",
+  "version": "1.0.0",
+  "description": "Converts nullsy values to null (undefined, false, NaN), else returns the value",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/to-null.git"
+  },
+  "keywords": [
+    "convert",
+    "to",
+    "null",
+    "nil",
+    "false"
+  ],
+  "author": "rangermauve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/to-null/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/to-null#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
